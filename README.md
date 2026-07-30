@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dejvexik
+# dejvexik
 
 **App & Web Developer** · tag `dx4wrld`
 
@@ -50,8 +50,9 @@ I build web apps, tools, and FiveM server resources — mostly working in Lua, C
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dejvexik&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=C9D1D9" alt="stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejvexik&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00C9A7&text_color=C9D1D9" alt="top languages" height="165" />
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dejvexik&label=REPOS&query=public_repos&color=00C9A7&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/dejvexik?label=FOLLOWERS&color=00C9A7&style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dejvexik&label=JOINED&query=created_at&color=00C9A7&style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -60,5 +61,13 @@ I build web apps, tools, and FiveM server resources — mostly working in Lua, C
 ---
 
 <div align="center">
-<sub>dx4wrld</sub>
+
+### 📫 Get in touch
+
+[![GitHub](https://img.shields.io/badge/-dejvexik-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dejvexik)
+
+<br>
+
+<sub>Built & maintained by <b>dx4wrld</b> · running on Debian 🐧</sub>
+
 </div>
