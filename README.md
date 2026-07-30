@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=dejvexik&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=App%20%26%20Web%20Developer%20%C2%B7%20tag%3A%20dx4wrld&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=dejvexik&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=App%20%26%20Web%20Developer%20%C2%B7%20tag%3A%20dx4wrld&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=460&lines=App+%26+Web+Developer;Lua+%7C+C%23+%7C+HTML+%7C+Python;FiveM+Server+Dev;Powered+by+Debian+Linux" alt="typing" />
 
