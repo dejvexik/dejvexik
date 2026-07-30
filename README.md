@@ -1,7 +1,6 @@
 <div align="center">
 
-# dejvexik
-
+# Dejvex
 **App & Web Developer** · tag `dx4wrld`
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
