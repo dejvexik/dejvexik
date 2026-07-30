@@ -1,6 +1,6 @@
 <div align="center">
 
-# dejvexik
+# Dejvexik
 
 **App & Web Developer** · tag `dx4wrld`
 
